@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Jonsonrath
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... Java
+- I know C, C#, HTML, CSS, JS and TS
 
 
 <!---
